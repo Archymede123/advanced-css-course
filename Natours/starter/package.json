@@ -1,0 +1,18 @@
+{
+  "name": "natour",
+  "version": "1.0.0",
+  "description": "training file",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "keywords": [
+    "landing",
+    "page"
+  ],
+  "author": "tim",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.7.2"
+  }
+}
