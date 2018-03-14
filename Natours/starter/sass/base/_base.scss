@@ -8,15 +8,10 @@
 
 
 html {
+    // define what one rem is // 
     font-size: 62.5%; /* (10px, based on browser default font size, 16px) => This is the root font size */
 }
 
 body {
-    font-family: "Lato", sans-serif;
-    font-weight: 400;
-    /* font-size: 16px; */
-    line-height: 1.7;
-    color: $color-grey-dark;
-    padding: 3rem;
     box-sizing: border-box; /* height and width will be define for the entire box, including padding and border */
 }
